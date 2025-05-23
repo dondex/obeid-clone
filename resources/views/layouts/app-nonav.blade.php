@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Sun Clinic') }}</title>
+    <title>{{ config('app.name', 'Obeid Hospital') }}</title>
 
     <!-- Fonts -->
     <!-- <link rel="dns-prefetch" href="//fonts.bunny.net">
