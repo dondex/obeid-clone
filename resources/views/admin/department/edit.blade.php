@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Sun Clinic Hospital Department')
+@section('title', 'Obeid Hospital')
 
 @section('content')
 

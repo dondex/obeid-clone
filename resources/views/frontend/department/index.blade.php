@@ -1,6 +1,6 @@
 @extends('layouts.app-nonav')
 
-@section('title', 'Sun Clinic Hospital')
+@section('title', 'Obeid Hospital')
 
 @section('content')
 
